@@ -1,0 +1,15 @@
+3/17 updates: added in code for model and description
+
+Next Steps
+Train Model on Real Handwriting Samples**
+- Collect real handwriting samples** from our generated passage.
+- Label new data (match handwritten text with transcription).
+- Add new samples to training set and retrain model.
+
+Evaluate Model Performance**
+- Check accuracy, loss, and validation results.
+- Improve model by **tuning hyperparameters**.
+
+Prepare Final Model for Testing**
+- Test on new unseen handwriting samples*
+- Deploy initial test model for feedback.
